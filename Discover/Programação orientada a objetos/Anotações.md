@@ -1,4 +1,4 @@
-O que ´programação orientada a objetos (POO)?
+O que é programação orientada a objetos (POO)?
 
 Oriented Object Programming ou OOP
 Um paradgma de desenvolvimento
